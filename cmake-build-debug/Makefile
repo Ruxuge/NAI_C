@@ -153,29 +153,53 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/NAI_C.dir/build.make CMakeFiles/NAI_C.dir/main.cpp.s
 .PHONY : main.cpp.s
 
-zadania/zad1/hill_climbing.o: zadania/zad1/hill_climbing.cpp.o
-.PHONY : zadania/zad1/hill_climbing.o
+wykłady/wyk1/hill_climbing.o: wykłady/wyk1/hill_climbing.cpp.o
+.PHONY : wykłady/wyk1/hill_climbing.o
 
 # target to build an object file
-zadania/zad1/hill_climbing.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/NAI_C.dir/build.make CMakeFiles/NAI_C.dir/zadania/zad1/hill_climbing.cpp.o
-.PHONY : zadania/zad1/hill_climbing.cpp.o
+wykłady/wyk1/hill_climbing.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NAI_C.dir/build.make CMakeFiles/NAI_C.dir/wykłady/wyk1/hill_climbing.cpp.o
+.PHONY : wykłady/wyk1/hill_climbing.cpp.o
 
-zadania/zad1/hill_climbing.i: zadania/zad1/hill_climbing.cpp.i
-.PHONY : zadania/zad1/hill_climbing.i
+wykłady/wyk1/hill_climbing.i: wykłady/wyk1/hill_climbing.cpp.i
+.PHONY : wykłady/wyk1/hill_climbing.i
 
 # target to preprocess a source file
-zadania/zad1/hill_climbing.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/NAI_C.dir/build.make CMakeFiles/NAI_C.dir/zadania/zad1/hill_climbing.cpp.i
-.PHONY : zadania/zad1/hill_climbing.cpp.i
+wykłady/wyk1/hill_climbing.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NAI_C.dir/build.make CMakeFiles/NAI_C.dir/wykłady/wyk1/hill_climbing.cpp.i
+.PHONY : wykłady/wyk1/hill_climbing.cpp.i
 
-zadania/zad1/hill_climbing.s: zadania/zad1/hill_climbing.cpp.s
-.PHONY : zadania/zad1/hill_climbing.s
+wykłady/wyk1/hill_climbing.s: wykłady/wyk1/hill_climbing.cpp.s
+.PHONY : wykłady/wyk1/hill_climbing.s
 
 # target to generate assembly for a file
-zadania/zad1/hill_climbing.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/NAI_C.dir/build.make CMakeFiles/NAI_C.dir/zadania/zad1/hill_climbing.cpp.s
-.PHONY : zadania/zad1/hill_climbing.cpp.s
+wykłady/wyk1/hill_climbing.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NAI_C.dir/build.make CMakeFiles/NAI_C.dir/wykłady/wyk1/hill_climbing.cpp.s
+.PHONY : wykłady/wyk1/hill_climbing.cpp.s
+
+wykłady/wyk2/tabu_search.o: wykłady/wyk2/tabu_search.cpp.o
+.PHONY : wykłady/wyk2/tabu_search.o
+
+# target to build an object file
+wykłady/wyk2/tabu_search.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NAI_C.dir/build.make CMakeFiles/NAI_C.dir/wykłady/wyk2/tabu_search.cpp.o
+.PHONY : wykłady/wyk2/tabu_search.cpp.o
+
+wykłady/wyk2/tabu_search.i: wykłady/wyk2/tabu_search.cpp.i
+.PHONY : wykłady/wyk2/tabu_search.i
+
+# target to preprocess a source file
+wykłady/wyk2/tabu_search.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NAI_C.dir/build.make CMakeFiles/NAI_C.dir/wykłady/wyk2/tabu_search.cpp.i
+.PHONY : wykłady/wyk2/tabu_search.cpp.i
+
+wykłady/wyk2/tabu_search.s: wykłady/wyk2/tabu_search.cpp.s
+.PHONY : wykłady/wyk2/tabu_search.s
+
+# target to generate assembly for a file
+wykłady/wyk2/tabu_search.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NAI_C.dir/build.make CMakeFiles/NAI_C.dir/wykłady/wyk2/tabu_search.cpp.s
+.PHONY : wykłady/wyk2/tabu_search.cpp.s
 
 zadania/zad1/lab1.o: zadania/zad1/lab1.cpp.o
 .PHONY : zadania/zad1/lab1.o
@@ -201,6 +225,30 @@ zadania/zad1/lab1.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/NAI_C.dir/build.make CMakeFiles/NAI_C.dir/zadania/zad1/lab1.cpp.s
 .PHONY : zadania/zad1/lab1.cpp.s
 
+zadania/zad2/lab2.o: zadania/zad2/lab2.cpp.o
+.PHONY : zadania/zad2/lab2.o
+
+# target to build an object file
+zadania/zad2/lab2.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NAI_C.dir/build.make CMakeFiles/NAI_C.dir/zadania/zad2/lab2.cpp.o
+.PHONY : zadania/zad2/lab2.cpp.o
+
+zadania/zad2/lab2.i: zadania/zad2/lab2.cpp.i
+.PHONY : zadania/zad2/lab2.i
+
+# target to preprocess a source file
+zadania/zad2/lab2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NAI_C.dir/build.make CMakeFiles/NAI_C.dir/zadania/zad2/lab2.cpp.i
+.PHONY : zadania/zad2/lab2.cpp.i
+
+zadania/zad2/lab2.s: zadania/zad2/lab2.cpp.s
+.PHONY : zadania/zad2/lab2.s
+
+# target to generate assembly for a file
+zadania/zad2/lab2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NAI_C.dir/build.make CMakeFiles/NAI_C.dir/zadania/zad2/lab2.cpp.s
+.PHONY : zadania/zad2/lab2.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -213,12 +261,18 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
-	@echo "... zadania/zad1/hill_climbing.o"
-	@echo "... zadania/zad1/hill_climbing.i"
-	@echo "... zadania/zad1/hill_climbing.s"
+	@echo "... wykłady/wyk1/hill_climbing.o"
+	@echo "... wykłady/wyk1/hill_climbing.i"
+	@echo "... wykłady/wyk1/hill_climbing.s"
+	@echo "... wykłady/wyk2/tabu_search.o"
+	@echo "... wykłady/wyk2/tabu_search.i"
+	@echo "... wykłady/wyk2/tabu_search.s"
 	@echo "... zadania/zad1/lab1.o"
 	@echo "... zadania/zad1/lab1.i"
 	@echo "... zadania/zad1/lab1.s"
+	@echo "... zadania/zad2/lab2.o"
+	@echo "... zadania/zad2/lab2.i"
+	@echo "... zadania/zad2/lab2.s"
 .PHONY : help
 
 

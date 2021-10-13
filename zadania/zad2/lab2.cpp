@@ -1,24 +1,18 @@
+#include "lab2.h"
 #include <functional>
 #include <iostream>
 #include <random>
 #include <vector>
-#include "hill_climbing.h"
+#include "../../helpers.h"
 
 using namespace std;
 
-random_device rd;  //Will be used to obtain a seed for the random number engine
-mt19937 gen(rd()); //Standard mersenne_twister_engine seeded with rd()
-
-ostream& operator<<(ostream& o, vector<double> v)
-{
-    for (auto e : v) {
-        o << e << ",";
-    }
-    return o;
-}
-
 vector<double> hill_climbing(function<double(vector<double>)> f, vector<double> p0, int iterations)
 {
+
+
+    static random_device rd;
+    static mt19937 gen(rd());
     auto p = p0;
     uniform_int_distribution<> distrib(0, p.size() - 1);
     uniform_real_distribution<> distrib_r(-0.1, 0.1);
@@ -35,11 +29,11 @@ vector<double> hill_climbing(function<double(vector<double>)> f, vector<double> 
     }
     return p;
 }
-int start()
+
+int wyk1()
 {
     hill_climbing([](vector<double> v) {
         return 100 - v[0] * v[0];
-        },
-                  {10.2, 5.5}, 5000);
+        },{10.2, 5.5}, 5000);
     return 0;
 }

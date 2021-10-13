@@ -6,11 +6,41 @@
 
 #IncludeRegexTransform: 
 
-/home/ruxuge/CLionProjects/NAI_C/zadania/zad1/lab1.cpp
-valarray
+/home/ruxuge/CLionProjects/NAI_C/helpers.h
+iostream
 -
-tuple
+vector
+-
+
+/home/ruxuge/CLionProjects/NAI_C/wykłady/wyk1/hill_climbing.cpp
+hill_climbing.h
+/home/ruxuge/CLionProjects/NAI_C/wykłady/wyk1/hill_climbing.h
+functional
 -
 iostream
 -
+random
+-
+vector
+-
+../../helpers.h
+/home/ruxuge/CLionProjects/NAI_C/helpers.h
+
+/home/ruxuge/CLionProjects/NAI_C/wykłady/wyk1/hill_climbing.h
+
+/home/ruxuge/CLionProjects/NAI_C/wykłady/wyk2/tabu_search.cpp
+tabu_search.h
+/home/ruxuge/CLionProjects/NAI_C/wykłady/wyk2/tabu_search.h
+functional
+-
+iostream
+-
+random
+-
+vector
+-
+../../helpers.h
+/home/ruxuge/CLionProjects/NAI_C/helpers.h
+
+/home/ruxuge/CLionProjects/NAI_C/wykłady/wyk2/tabu_search.h
 

@@ -3,10 +3,19 @@
 
 CMakeFiles/NAI_C.dir/main.cpp.o: \
  ../main.cpp \
- ../zadania/zad1/hill_climbing.h \
- ../zadania/zad1/lab1.h
-CMakeFiles/NAI_C.dir/zadania/zad1/hill_climbing.cpp.o: \
- ../zadania/zad1/hill_climbing.cpp \
- ../zadania/zad1/hill_climbing.h
+ ../wykłady/wyk1/hill_climbing.h \
+ ../wykłady/wyk2/tabu_search.h \
+ ../zadania/zad1/lab1.h \
+ ../zadania/zad2/lab2.h
+CMakeFiles/NAI_C.dir/wykłady/wyk1/hill_climbing.cpp.o: \
+ ../helpers.h \
+ ../wykłady/wyk1/hill_climbing.cpp \
+ ../wykłady/wyk1/hill_climbing.h
+CMakeFiles/NAI_C.dir/wykłady/wyk2/tabu_search.cpp.o: \
+ ../helpers.h \
+ ../wykłady/wyk2/tabu_search.cpp \
+ ../wykłady/wyk2/tabu_search.h
 CMakeFiles/NAI_C.dir/zadania/zad1/lab1.cpp.o: \
  ../zadania/zad1/lab1.cpp
+CMakeFiles/NAI_C.dir/zadania/zad2/lab2.cpp.o: \
+ ../zadania/zad2/lab2.cpp

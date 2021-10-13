@@ -1,16 +1,24 @@
 #include <iostream>
-#include "zadania/zad1/hill_climbing.h"
+#include "wykłady/wyk1/hill_climbing.h"
 #include "zadania/zad1/lab1.h"
+#include "zadania/zad2/lab2.h"
+#include "wykłady/wyk2/tabu_search.h"
 using namespace std;
 
 int switch_menu(int num){
     switch(num){
         case 1:
-            start();
+            wyk1();
             break;
         case 2:
             lab1();
             break;
+        case 3:
+            wyk2();
+            break;
+        //case 4:
+        //    lab2();
+        //    break;
         default:
             std::cout << "Bad input" << std::endl;
     }

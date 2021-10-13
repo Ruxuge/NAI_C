@@ -79,22 +79,9 @@ CMakeFiles/NAI_C.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NAI_C.dir/main.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ruxuge/CLionProjects/NAI_C/main.cpp -o CMakeFiles/NAI_C.dir/main.cpp.s
 
-CMakeFiles/NAI_C.dir/zadania/zad1/hill_climbing.cpp.o: CMakeFiles/NAI_C.dir/flags.make
-CMakeFiles/NAI_C.dir/zadania/zad1/hill_climbing.cpp.o: ../zadania/zad1/hill_climbing.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ruxuge/CLionProjects/NAI_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/NAI_C.dir/zadania/zad1/hill_climbing.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/NAI_C.dir/zadania/zad1/hill_climbing.cpp.o -c /home/ruxuge/CLionProjects/NAI_C/zadania/zad1/hill_climbing.cpp
-
-CMakeFiles/NAI_C.dir/zadania/zad1/hill_climbing.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/NAI_C.dir/zadania/zad1/hill_climbing.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ruxuge/CLionProjects/NAI_C/zadania/zad1/hill_climbing.cpp > CMakeFiles/NAI_C.dir/zadania/zad1/hill_climbing.cpp.i
-
-CMakeFiles/NAI_C.dir/zadania/zad1/hill_climbing.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NAI_C.dir/zadania/zad1/hill_climbing.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ruxuge/CLionProjects/NAI_C/zadania/zad1/hill_climbing.cpp -o CMakeFiles/NAI_C.dir/zadania/zad1/hill_climbing.cpp.s
-
 CMakeFiles/NAI_C.dir/zadania/zad1/lab1.cpp.o: CMakeFiles/NAI_C.dir/flags.make
 CMakeFiles/NAI_C.dir/zadania/zad1/lab1.cpp.o: ../zadania/zad1/lab1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ruxuge/CLionProjects/NAI_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/NAI_C.dir/zadania/zad1/lab1.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ruxuge/CLionProjects/NAI_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/NAI_C.dir/zadania/zad1/lab1.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/NAI_C.dir/zadania/zad1/lab1.cpp.o -c /home/ruxuge/CLionProjects/NAI_C/zadania/zad1/lab1.cpp
 
 CMakeFiles/NAI_C.dir/zadania/zad1/lab1.cpp.i: cmake_force
@@ -105,21 +92,64 @@ CMakeFiles/NAI_C.dir/zadania/zad1/lab1.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NAI_C.dir/zadania/zad1/lab1.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ruxuge/CLionProjects/NAI_C/zadania/zad1/lab1.cpp -o CMakeFiles/NAI_C.dir/zadania/zad1/lab1.cpp.s
 
+CMakeFiles/NAI_C.dir/zadania/zad2/lab2.cpp.o: CMakeFiles/NAI_C.dir/flags.make
+CMakeFiles/NAI_C.dir/zadania/zad2/lab2.cpp.o: ../zadania/zad2/lab2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ruxuge/CLionProjects/NAI_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/NAI_C.dir/zadania/zad2/lab2.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/NAI_C.dir/zadania/zad2/lab2.cpp.o -c /home/ruxuge/CLionProjects/NAI_C/zadania/zad2/lab2.cpp
+
+CMakeFiles/NAI_C.dir/zadania/zad2/lab2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/NAI_C.dir/zadania/zad2/lab2.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ruxuge/CLionProjects/NAI_C/zadania/zad2/lab2.cpp > CMakeFiles/NAI_C.dir/zadania/zad2/lab2.cpp.i
+
+CMakeFiles/NAI_C.dir/zadania/zad2/lab2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NAI_C.dir/zadania/zad2/lab2.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ruxuge/CLionProjects/NAI_C/zadania/zad2/lab2.cpp -o CMakeFiles/NAI_C.dir/zadania/zad2/lab2.cpp.s
+
+CMakeFiles/NAI_C.dir/wykłady/wyk1/hill_climbing.cpp.o: CMakeFiles/NAI_C.dir/flags.make
+CMakeFiles/NAI_C.dir/wykłady/wyk1/hill_climbing.cpp.o: ../wykłady/wyk1/hill_climbing.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ruxuge/CLionProjects/NAI_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/NAI_C.dir/wykłady/wyk1/hill_climbing.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/NAI_C.dir/wykłady/wyk1/hill_climbing.cpp.o -c /home/ruxuge/CLionProjects/NAI_C/wykłady/wyk1/hill_climbing.cpp
+
+CMakeFiles/NAI_C.dir/wykłady/wyk1/hill_climbing.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/NAI_C.dir/wykłady/wyk1/hill_climbing.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ruxuge/CLionProjects/NAI_C/wykłady/wyk1/hill_climbing.cpp > CMakeFiles/NAI_C.dir/wykłady/wyk1/hill_climbing.cpp.i
+
+CMakeFiles/NAI_C.dir/wykłady/wyk1/hill_climbing.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NAI_C.dir/wykłady/wyk1/hill_climbing.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ruxuge/CLionProjects/NAI_C/wykłady/wyk1/hill_climbing.cpp -o CMakeFiles/NAI_C.dir/wykłady/wyk1/hill_climbing.cpp.s
+
+CMakeFiles/NAI_C.dir/wykłady/wyk2/tabu_search.cpp.o: CMakeFiles/NAI_C.dir/flags.make
+CMakeFiles/NAI_C.dir/wykłady/wyk2/tabu_search.cpp.o: ../wykłady/wyk2/tabu_search.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ruxuge/CLionProjects/NAI_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/NAI_C.dir/wykłady/wyk2/tabu_search.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/NAI_C.dir/wykłady/wyk2/tabu_search.cpp.o -c /home/ruxuge/CLionProjects/NAI_C/wykłady/wyk2/tabu_search.cpp
+
+CMakeFiles/NAI_C.dir/wykłady/wyk2/tabu_search.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/NAI_C.dir/wykłady/wyk2/tabu_search.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ruxuge/CLionProjects/NAI_C/wykłady/wyk2/tabu_search.cpp > CMakeFiles/NAI_C.dir/wykłady/wyk2/tabu_search.cpp.i
+
+CMakeFiles/NAI_C.dir/wykłady/wyk2/tabu_search.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NAI_C.dir/wykłady/wyk2/tabu_search.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ruxuge/CLionProjects/NAI_C/wykłady/wyk2/tabu_search.cpp -o CMakeFiles/NAI_C.dir/wykłady/wyk2/tabu_search.cpp.s
+
 # Object files for target NAI_C
 NAI_C_OBJECTS = \
 "CMakeFiles/NAI_C.dir/main.cpp.o" \
-"CMakeFiles/NAI_C.dir/zadania/zad1/hill_climbing.cpp.o" \
-"CMakeFiles/NAI_C.dir/zadania/zad1/lab1.cpp.o"
+"CMakeFiles/NAI_C.dir/zadania/zad1/lab1.cpp.o" \
+"CMakeFiles/NAI_C.dir/zadania/zad2/lab2.cpp.o" \
+"CMakeFiles/NAI_C.dir/wykłady/wyk1/hill_climbing.cpp.o" \
+"CMakeFiles/NAI_C.dir/wykłady/wyk2/tabu_search.cpp.o"
 
 # External object files for target NAI_C
 NAI_C_EXTERNAL_OBJECTS =
 
 NAI_C: CMakeFiles/NAI_C.dir/main.cpp.o
-NAI_C: CMakeFiles/NAI_C.dir/zadania/zad1/hill_climbing.cpp.o
 NAI_C: CMakeFiles/NAI_C.dir/zadania/zad1/lab1.cpp.o
+NAI_C: CMakeFiles/NAI_C.dir/zadania/zad2/lab2.cpp.o
+NAI_C: CMakeFiles/NAI_C.dir/wykłady/wyk1/hill_climbing.cpp.o
+NAI_C: CMakeFiles/NAI_C.dir/wykłady/wyk2/tabu_search.cpp.o
 NAI_C: CMakeFiles/NAI_C.dir/build.make
 NAI_C: CMakeFiles/NAI_C.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/ruxuge/CLionProjects/NAI_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable NAI_C"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/ruxuge/CLionProjects/NAI_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable NAI_C"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/NAI_C.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

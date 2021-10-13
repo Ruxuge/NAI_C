@@ -82,19 +82,34 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/helpers.h">
+			<Option target="NAI_C"/>
+		</Unit>
 		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/main.cpp">
 			<Option target="NAI_C"/>
 		</Unit>
-		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/zad1/hill_climbing.cpp">
+		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/wykłady/wyk1/hill_climbing.cpp">
 			<Option target="NAI_C"/>
 		</Unit>
-		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/zad1/hill_climbing.h">
+		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/wykłady/wyk1/hill_climbing.h">
+			<Option target="NAI_C"/>
+		</Unit>
+		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/wykłady/wyk2/tabu_search.cpp">
+			<Option target="NAI_C"/>
+		</Unit>
+		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/wykłady/wyk2/tabu_search.h">
 			<Option target="NAI_C"/>
 		</Unit>
 		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/zad1/lab1.cpp">
 			<Option target="NAI_C"/>
 		</Unit>
 		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/zad1/lab1.h">
+			<Option target="NAI_C"/>
+		</Unit>
+		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/zad2/lab2.cpp">
+			<Option target="NAI_C"/>
+		</Unit>
+		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/zad2/lab2.h">
 			<Option target="NAI_C"/>
 		</Unit>
 		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/CMakeLists.txt">
