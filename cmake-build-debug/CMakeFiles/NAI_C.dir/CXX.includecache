@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ruxuge/CLionProjects/NAI_C/zadania/zad1/lab1.cpp
+valarray
+-
+tuple
+-
+iostream
+-
+
