@@ -21,4 +21,5 @@ inline std::vector<double> operator+(std::vector<double> a, std::vector<double> 
     }
     return a;
 }
+
 #endif //NAI_C_HELPERS_H

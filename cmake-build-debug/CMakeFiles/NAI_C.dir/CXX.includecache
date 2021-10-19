@@ -6,41 +6,33 @@
 
 #IncludeRegexTransform: 
 
-/home/ruxuge/CLionProjects/NAI_C/helpers.h
-iostream
--
-vector
--
-
-/home/ruxuge/CLionProjects/NAI_C/wykłady/wyk1/hill_climbing.cpp
-hill_climbing.h
-/home/ruxuge/CLionProjects/NAI_C/wykłady/wyk1/hill_climbing.h
-functional
+/home/ruxuge/CLionProjects/NAI_C/zadania/zad2/functions/Beale/beale.cpp
+valarray
 -
 iostream
 -
-random
--
-vector
--
-../../helpers.h
-/home/ruxuge/CLionProjects/NAI_C/helpers.h
+beale.h
+/home/ruxuge/CLionProjects/NAI_C/zadania/zad2/functions/Beale/beale.h
 
-/home/ruxuge/CLionProjects/NAI_C/wykłady/wyk1/hill_climbing.h
+/home/ruxuge/CLionProjects/NAI_C/zadania/zad2/functions/Beale/beale.h
 
-/home/ruxuge/CLionProjects/NAI_C/wykłady/wyk2/tabu_search.cpp
-tabu_search.h
-/home/ruxuge/CLionProjects/NAI_C/wykłady/wyk2/tabu_search.h
-functional
+/home/ruxuge/CLionProjects/NAI_C/zadania/zad2/functions/Booth/booth.cpp
+booth.h
+/home/ruxuge/CLionProjects/NAI_C/zadania/zad2/functions/Booth/booth.h
+valarray
 -
 iostream
 -
-random
--
-vector
--
-../../helpers.h
-/home/ruxuge/CLionProjects/NAI_C/helpers.h
 
-/home/ruxuge/CLionProjects/NAI_C/wykłady/wyk2/tabu_search.h
+/home/ruxuge/CLionProjects/NAI_C/zadania/zad2/functions/Booth/booth.h
+
+/home/ruxuge/CLionProjects/NAI_C/zadania/zad2/functions/HimmelBlau/himmelBlau.cpp
+valarray
+-
+iostream
+-
+himmelBlau.h
+/home/ruxuge/CLionProjects/NAI_C/zadania/zad2/functions/HimmelBlau/himmelBlau.h
+
+/home/ruxuge/CLionProjects/NAI_C/zadania/zad2/functions/HimmelBlau/himmelBlau.h
 

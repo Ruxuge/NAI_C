@@ -17,5 +17,18 @@ CMakeFiles/NAI_C.dir/wykłady/wyk2/tabu_search.cpp.o: \
  ../wykłady/wyk2/tabu_search.h
 CMakeFiles/NAI_C.dir/zadania/zad1/lab1.cpp.o: \
  ../zadania/zad1/lab1.cpp
+CMakeFiles/NAI_C.dir/zadania/zad2/functions/Beale/beale.cpp.o: \
+ ../zadania/zad2/functions/Beale/beale.cpp \
+ ../zadania/zad2/functions/Beale/beale.h
+CMakeFiles/NAI_C.dir/zadania/zad2/functions/Booth/booth.cpp.o: \
+ ../zadania/zad2/functions/Booth/booth.cpp \
+ ../zadania/zad2/functions/Booth/booth.h
+CMakeFiles/NAI_C.dir/zadania/zad2/functions/HimmelBlau/himmelBlau.cpp.o: \
+ ../zadania/zad2/functions/HimmelBlau/himmelBlau.cpp \
+ ../zadania/zad2/functions/HimmelBlau/himmelBlau.h
 CMakeFiles/NAI_C.dir/zadania/zad2/lab2.cpp.o: \
- ../zadania/zad2/lab2.cpp
+ ../zadania/zad2/functions/Beale/beale.h \
+ ../zadania/zad2/functions/Booth/booth.h \
+ ../zadania/zad2/functions/HimmelBlau/himmelBlau.h \
+ ../zadania/zad2/lab2.cpp \
+ ../zadania/zad2/lab2.h

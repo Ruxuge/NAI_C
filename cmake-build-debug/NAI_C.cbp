@@ -106,6 +106,24 @@
 		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/zad1/lab1.h">
 			<Option target="NAI_C"/>
 		</Unit>
+		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/zad2/functions/Beale/beale.cpp">
+			<Option target="NAI_C"/>
+		</Unit>
+		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/zad2/functions/Beale/beale.h">
+			<Option target="NAI_C"/>
+		</Unit>
+		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/zad2/functions/Booth/booth.cpp">
+			<Option target="NAI_C"/>
+		</Unit>
+		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/zad2/functions/Booth/booth.h">
+			<Option target="NAI_C"/>
+		</Unit>
+		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/zad2/functions/HimmelBlau/himmelBlau.cpp">
+			<Option target="NAI_C"/>
+		</Unit>
+		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/zad2/functions/HimmelBlau/himmelBlau.h">
+			<Option target="NAI_C"/>
+		</Unit>
 		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/zad2/lab2.cpp">
 			<Option target="NAI_C"/>
 		</Unit>

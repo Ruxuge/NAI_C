@@ -5,4 +5,6 @@
 #ifndef NAI_C_LAB2_H
 #define NAI_C_LAB2_H
 
+int lab2();
+
 #endif //NAI_C_LAB2_H

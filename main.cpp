@@ -16,9 +16,9 @@ int switch_menu(int num){
         case 3:
             wyk2();
             break;
-        //case 4:
-        //    lab2();
-        //    break;
+        case 4:
+            lab2();
+            break;
         default:
             std::cout << "Bad input" << std::endl;
     }
