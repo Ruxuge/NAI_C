@@ -4,21 +4,21 @@
 #include "functions/HimmelBlau/himmelBlau.h"
 #include "functions/Booth/booth.h"
 
-int climbing_menu(int num, double x, double y){
+int climbing_menu(int num){
         switch(num){
             case 1:
-                runBeale(x, y);
+                runBeale();
                 break;
             case 2:
-                runBooth(x, y);
+                //runBooth();
                 break;
             case 3:
-                runHimmelBlau(x, y);
+                runHimmelBlau();
                 break;
             case 4:
-                runBeale(x, y);
-                runBooth(x, y);
-                runHimmelBlau(x, y);
+                runBeale();
+                //runBooth();
+                runHimmelBlau();
             default:
                 std::cout << "Bad input" << std::endl;
         }
@@ -33,12 +33,6 @@ int lab2() {
     std::cout << "4. all" << std::endl;
     int num;
     std::cin >> num;
-    double x;
-    double y;
-    std::cout << "print x: " << std::endl;
-    std::cin >> x;
-    std::cout << "print y: " << std::endl;
-    std::cin >> y;
-    climbing_menu(num, x, y);
+    climbing_menu(num);
     return 0;
 }

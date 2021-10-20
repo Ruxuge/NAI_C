@@ -5,7 +5,7 @@
 #ifndef NAI_C_HIMMELBLAU_H
 #define NAI_C_HIMMELBLAU_H
 
-double runHimmelBlau(double x, double y);
+double runHimmelBlau();
 
 
 #endif //NAI_C_HIMMELBLAU_H

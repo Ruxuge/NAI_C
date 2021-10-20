@@ -201,6 +201,30 @@ wykłady/wyk2/tabu_search.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/NAI_C.dir/build.make CMakeFiles/NAI_C.dir/wykłady/wyk2/tabu_search.cpp.s
 .PHONY : wykłady/wyk2/tabu_search.cpp.s
 
+wykłady/wyk3/sa.o: wykłady/wyk3/sa.cpp.o
+.PHONY : wykłady/wyk3/sa.o
+
+# target to build an object file
+wykłady/wyk3/sa.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NAI_C.dir/build.make CMakeFiles/NAI_C.dir/wykłady/wyk3/sa.cpp.o
+.PHONY : wykłady/wyk3/sa.cpp.o
+
+wykłady/wyk3/sa.i: wykłady/wyk3/sa.cpp.i
+.PHONY : wykłady/wyk3/sa.i
+
+# target to preprocess a source file
+wykłady/wyk3/sa.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NAI_C.dir/build.make CMakeFiles/NAI_C.dir/wykłady/wyk3/sa.cpp.i
+.PHONY : wykłady/wyk3/sa.cpp.i
+
+wykłady/wyk3/sa.s: wykłady/wyk3/sa.cpp.s
+.PHONY : wykłady/wyk3/sa.s
+
+# target to generate assembly for a file
+wykłady/wyk3/sa.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NAI_C.dir/build.make CMakeFiles/NAI_C.dir/wykłady/wyk3/sa.cpp.s
+.PHONY : wykłady/wyk3/sa.cpp.s
+
 zadania/zad1/lab1.o: zadania/zad1/lab1.cpp.o
 .PHONY : zadania/zad1/lab1.o
 
@@ -339,6 +363,9 @@ help:
 	@echo "... wykłady/wyk2/tabu_search.o"
 	@echo "... wykłady/wyk2/tabu_search.i"
 	@echo "... wykłady/wyk2/tabu_search.s"
+	@echo "... wykłady/wyk3/sa.o"
+	@echo "... wykłady/wyk3/sa.i"
+	@echo "... wykłady/wyk3/sa.s"
 	@echo "... zadania/zad1/lab1.o"
 	@echo "... zadania/zad1/lab1.i"
 	@echo "... zadania/zad1/lab1.s"

@@ -11,6 +11,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/ruxuge/CLionProjects/NAI_C/main.cpp" "/home/ruxuge/CLionProjects/NAI_C/cmake-build-debug/CMakeFiles/NAI_C.dir/main.cpp.o"
   "/home/ruxuge/CLionProjects/NAI_C/wykłady/wyk1/hill_climbing.cpp" "/home/ruxuge/CLionProjects/NAI_C/cmake-build-debug/CMakeFiles/NAI_C.dir/wykłady/wyk1/hill_climbing.cpp.o"
   "/home/ruxuge/CLionProjects/NAI_C/wykłady/wyk2/tabu_search.cpp" "/home/ruxuge/CLionProjects/NAI_C/cmake-build-debug/CMakeFiles/NAI_C.dir/wykłady/wyk2/tabu_search.cpp.o"
+  "/home/ruxuge/CLionProjects/NAI_C/wykłady/wyk3/sa.cpp" "/home/ruxuge/CLionProjects/NAI_C/cmake-build-debug/CMakeFiles/NAI_C.dir/wykłady/wyk3/sa.cpp.o"
   "/home/ruxuge/CLionProjects/NAI_C/zadania/zad1/lab1.cpp" "/home/ruxuge/CLionProjects/NAI_C/cmake-build-debug/CMakeFiles/NAI_C.dir/zadania/zad1/lab1.cpp.o"
   "/home/ruxuge/CLionProjects/NAI_C/zadania/zad2/functions/Beale/beale.cpp" "/home/ruxuge/CLionProjects/NAI_C/cmake-build-debug/CMakeFiles/NAI_C.dir/zadania/zad2/functions/Beale/beale.cpp.o"
   "/home/ruxuge/CLionProjects/NAI_C/zadania/zad2/functions/Booth/booth.cpp" "/home/ruxuge/CLionProjects/NAI_C/cmake-build-debug/CMakeFiles/NAI_C.dir/zadania/zad2/functions/Booth/booth.cpp.o"

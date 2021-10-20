@@ -4,9 +4,10 @@
 
 #ifndef NAI_C_BEALE_H
 #define NAI_C_BEALE_H
+#include <vector>
+#include <functional>
 
 
-double runBeale(double x, double y);
-
+int runBeale();
 
 #endif //NAI_C_BEALE_H

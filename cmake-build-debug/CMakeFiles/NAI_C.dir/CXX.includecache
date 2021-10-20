@@ -6,31 +6,45 @@
 
 #IncludeRegexTransform: 
 
+/home/ruxuge/CLionProjects/NAI_C/helpers.h
+iostream
+-
+vector
+-
+functional
+-
+
 /home/ruxuge/CLionProjects/NAI_C/zadania/zad2/functions/Beale/beale.cpp
 valarray
 -
 iostream
 -
+vector
+-
+random
+-
+../../../../helpers.h
+/home/ruxuge/CLionProjects/NAI_C/helpers.h
 beale.h
 /home/ruxuge/CLionProjects/NAI_C/zadania/zad2/functions/Beale/beale.h
 
 /home/ruxuge/CLionProjects/NAI_C/zadania/zad2/functions/Beale/beale.h
-
-/home/ruxuge/CLionProjects/NAI_C/zadania/zad2/functions/Booth/booth.cpp
-booth.h
-/home/ruxuge/CLionProjects/NAI_C/zadania/zad2/functions/Booth/booth.h
-valarray
+vector
 -
-iostream
+functional
 -
-
-/home/ruxuge/CLionProjects/NAI_C/zadania/zad2/functions/Booth/booth.h
 
 /home/ruxuge/CLionProjects/NAI_C/zadania/zad2/functions/HimmelBlau/himmelBlau.cpp
 valarray
 -
 iostream
 -
+vector
+-
+random
+-
+../../../../helpers.h
+/home/ruxuge/CLionProjects/NAI_C/helpers.h
 himmelBlau.h
 /home/ruxuge/CLionProjects/NAI_C/zadania/zad2/functions/HimmelBlau/himmelBlau.h
 
