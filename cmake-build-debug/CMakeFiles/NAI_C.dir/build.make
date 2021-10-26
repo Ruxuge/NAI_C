@@ -131,44 +131,44 @@ CMakeFiles/NAI_C.dir/wykłady/wyk2/tabu_search.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NAI_C.dir/wykłady/wyk2/tabu_search.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ruxuge/CLionProjects/NAI_C/wykłady/wyk2/tabu_search.cpp -o CMakeFiles/NAI_C.dir/wykłady/wyk2/tabu_search.cpp.s
 
-CMakeFiles/NAI_C.dir/zadania/zad2/functions/Beale/beale.cpp.o: CMakeFiles/NAI_C.dir/flags.make
-CMakeFiles/NAI_C.dir/zadania/zad2/functions/Beale/beale.cpp.o: ../zadania/zad2/functions/Beale/beale.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ruxuge/CLionProjects/NAI_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/NAI_C.dir/zadania/zad2/functions/Beale/beale.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/NAI_C.dir/zadania/zad2/functions/Beale/beale.cpp.o -c /home/ruxuge/CLionProjects/NAI_C/zadania/zad2/functions/Beale/beale.cpp
+CMakeFiles/NAI_C.dir/zadania/functions/Beale/beale.cpp.o: CMakeFiles/NAI_C.dir/flags.make
+CMakeFiles/NAI_C.dir/zadania/functions/Beale/beale.cpp.o: ../zadania/functions/Beale/beale.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ruxuge/CLionProjects/NAI_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/NAI_C.dir/zadania/functions/Beale/beale.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/NAI_C.dir/zadania/functions/Beale/beale.cpp.o -c /home/ruxuge/CLionProjects/NAI_C/zadania/functions/Beale/beale.cpp
 
-CMakeFiles/NAI_C.dir/zadania/zad2/functions/Beale/beale.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/NAI_C.dir/zadania/zad2/functions/Beale/beale.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ruxuge/CLionProjects/NAI_C/zadania/zad2/functions/Beale/beale.cpp > CMakeFiles/NAI_C.dir/zadania/zad2/functions/Beale/beale.cpp.i
+CMakeFiles/NAI_C.dir/zadania/functions/Beale/beale.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/NAI_C.dir/zadania/functions/Beale/beale.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ruxuge/CLionProjects/NAI_C/zadania/functions/Beale/beale.cpp > CMakeFiles/NAI_C.dir/zadania/functions/Beale/beale.cpp.i
 
-CMakeFiles/NAI_C.dir/zadania/zad2/functions/Beale/beale.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NAI_C.dir/zadania/zad2/functions/Beale/beale.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ruxuge/CLionProjects/NAI_C/zadania/zad2/functions/Beale/beale.cpp -o CMakeFiles/NAI_C.dir/zadania/zad2/functions/Beale/beale.cpp.s
+CMakeFiles/NAI_C.dir/zadania/functions/Beale/beale.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NAI_C.dir/zadania/functions/Beale/beale.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ruxuge/CLionProjects/NAI_C/zadania/functions/Beale/beale.cpp -o CMakeFiles/NAI_C.dir/zadania/functions/Beale/beale.cpp.s
 
-CMakeFiles/NAI_C.dir/zadania/zad2/functions/Booth/booth.cpp.o: CMakeFiles/NAI_C.dir/flags.make
-CMakeFiles/NAI_C.dir/zadania/zad2/functions/Booth/booth.cpp.o: ../zadania/zad2/functions/Booth/booth.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ruxuge/CLionProjects/NAI_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/NAI_C.dir/zadania/zad2/functions/Booth/booth.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/NAI_C.dir/zadania/zad2/functions/Booth/booth.cpp.o -c /home/ruxuge/CLionProjects/NAI_C/zadania/zad2/functions/Booth/booth.cpp
+CMakeFiles/NAI_C.dir/zadania/functions/Booth/booth.cpp.o: CMakeFiles/NAI_C.dir/flags.make
+CMakeFiles/NAI_C.dir/zadania/functions/Booth/booth.cpp.o: ../zadania/functions/Booth/booth.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ruxuge/CLionProjects/NAI_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/NAI_C.dir/zadania/functions/Booth/booth.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/NAI_C.dir/zadania/functions/Booth/booth.cpp.o -c /home/ruxuge/CLionProjects/NAI_C/zadania/functions/Booth/booth.cpp
 
-CMakeFiles/NAI_C.dir/zadania/zad2/functions/Booth/booth.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/NAI_C.dir/zadania/zad2/functions/Booth/booth.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ruxuge/CLionProjects/NAI_C/zadania/zad2/functions/Booth/booth.cpp > CMakeFiles/NAI_C.dir/zadania/zad2/functions/Booth/booth.cpp.i
+CMakeFiles/NAI_C.dir/zadania/functions/Booth/booth.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/NAI_C.dir/zadania/functions/Booth/booth.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ruxuge/CLionProjects/NAI_C/zadania/functions/Booth/booth.cpp > CMakeFiles/NAI_C.dir/zadania/functions/Booth/booth.cpp.i
 
-CMakeFiles/NAI_C.dir/zadania/zad2/functions/Booth/booth.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NAI_C.dir/zadania/zad2/functions/Booth/booth.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ruxuge/CLionProjects/NAI_C/zadania/zad2/functions/Booth/booth.cpp -o CMakeFiles/NAI_C.dir/zadania/zad2/functions/Booth/booth.cpp.s
+CMakeFiles/NAI_C.dir/zadania/functions/Booth/booth.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NAI_C.dir/zadania/functions/Booth/booth.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ruxuge/CLionProjects/NAI_C/zadania/functions/Booth/booth.cpp -o CMakeFiles/NAI_C.dir/zadania/functions/Booth/booth.cpp.s
 
-CMakeFiles/NAI_C.dir/zadania/zad2/functions/HimmelBlau/himmelBlau.cpp.o: CMakeFiles/NAI_C.dir/flags.make
-CMakeFiles/NAI_C.dir/zadania/zad2/functions/HimmelBlau/himmelBlau.cpp.o: ../zadania/zad2/functions/HimmelBlau/himmelBlau.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ruxuge/CLionProjects/NAI_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/NAI_C.dir/zadania/zad2/functions/HimmelBlau/himmelBlau.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/NAI_C.dir/zadania/zad2/functions/HimmelBlau/himmelBlau.cpp.o -c /home/ruxuge/CLionProjects/NAI_C/zadania/zad2/functions/HimmelBlau/himmelBlau.cpp
+CMakeFiles/NAI_C.dir/zadania/functions/HimmelBlau/himmelBlau.cpp.o: CMakeFiles/NAI_C.dir/flags.make
+CMakeFiles/NAI_C.dir/zadania/functions/HimmelBlau/himmelBlau.cpp.o: ../zadania/functions/HimmelBlau/himmelBlau.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ruxuge/CLionProjects/NAI_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/NAI_C.dir/zadania/functions/HimmelBlau/himmelBlau.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/NAI_C.dir/zadania/functions/HimmelBlau/himmelBlau.cpp.o -c /home/ruxuge/CLionProjects/NAI_C/zadania/functions/HimmelBlau/himmelBlau.cpp
 
-CMakeFiles/NAI_C.dir/zadania/zad2/functions/HimmelBlau/himmelBlau.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/NAI_C.dir/zadania/zad2/functions/HimmelBlau/himmelBlau.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ruxuge/CLionProjects/NAI_C/zadania/zad2/functions/HimmelBlau/himmelBlau.cpp > CMakeFiles/NAI_C.dir/zadania/zad2/functions/HimmelBlau/himmelBlau.cpp.i
+CMakeFiles/NAI_C.dir/zadania/functions/HimmelBlau/himmelBlau.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/NAI_C.dir/zadania/functions/HimmelBlau/himmelBlau.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ruxuge/CLionProjects/NAI_C/zadania/functions/HimmelBlau/himmelBlau.cpp > CMakeFiles/NAI_C.dir/zadania/functions/HimmelBlau/himmelBlau.cpp.i
 
-CMakeFiles/NAI_C.dir/zadania/zad2/functions/HimmelBlau/himmelBlau.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NAI_C.dir/zadania/zad2/functions/HimmelBlau/himmelBlau.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ruxuge/CLionProjects/NAI_C/zadania/zad2/functions/HimmelBlau/himmelBlau.cpp -o CMakeFiles/NAI_C.dir/zadania/zad2/functions/HimmelBlau/himmelBlau.cpp.s
+CMakeFiles/NAI_C.dir/zadania/functions/HimmelBlau/himmelBlau.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NAI_C.dir/zadania/functions/HimmelBlau/himmelBlau.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ruxuge/CLionProjects/NAI_C/zadania/functions/HimmelBlau/himmelBlau.cpp -o CMakeFiles/NAI_C.dir/zadania/functions/HimmelBlau/himmelBlau.cpp.s
 
 CMakeFiles/NAI_C.dir/wykłady/wyk3/sa.cpp.o: CMakeFiles/NAI_C.dir/flags.make
 CMakeFiles/NAI_C.dir/wykłady/wyk3/sa.cpp.o: ../wykłady/wyk3/sa.cpp
@@ -183,6 +183,32 @@ CMakeFiles/NAI_C.dir/wykłady/wyk3/sa.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NAI_C.dir/wykłady/wyk3/sa.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ruxuge/CLionProjects/NAI_C/wykłady/wyk3/sa.cpp -o CMakeFiles/NAI_C.dir/wykłady/wyk3/sa.cpp.s
 
+CMakeFiles/NAI_C.dir/zadania/zad3/lab3.cpp.o: CMakeFiles/NAI_C.dir/flags.make
+CMakeFiles/NAI_C.dir/zadania/zad3/lab3.cpp.o: ../zadania/zad3/lab3.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ruxuge/CLionProjects/NAI_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/NAI_C.dir/zadania/zad3/lab3.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/NAI_C.dir/zadania/zad3/lab3.cpp.o -c /home/ruxuge/CLionProjects/NAI_C/zadania/zad3/lab3.cpp
+
+CMakeFiles/NAI_C.dir/zadania/zad3/lab3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/NAI_C.dir/zadania/zad3/lab3.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ruxuge/CLionProjects/NAI_C/zadania/zad3/lab3.cpp > CMakeFiles/NAI_C.dir/zadania/zad3/lab3.cpp.i
+
+CMakeFiles/NAI_C.dir/zadania/zad3/lab3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NAI_C.dir/zadania/zad3/lab3.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ruxuge/CLionProjects/NAI_C/zadania/zad3/lab3.cpp -o CMakeFiles/NAI_C.dir/zadania/zad3/lab3.cpp.s
+
+CMakeFiles/NAI_C.dir/zadania/functions/funcControler.cpp.o: CMakeFiles/NAI_C.dir/flags.make
+CMakeFiles/NAI_C.dir/zadania/functions/funcControler.cpp.o: ../zadania/functions/funcControler.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ruxuge/CLionProjects/NAI_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/NAI_C.dir/zadania/functions/funcControler.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/NAI_C.dir/zadania/functions/funcControler.cpp.o -c /home/ruxuge/CLionProjects/NAI_C/zadania/functions/funcControler.cpp
+
+CMakeFiles/NAI_C.dir/zadania/functions/funcControler.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/NAI_C.dir/zadania/functions/funcControler.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ruxuge/CLionProjects/NAI_C/zadania/functions/funcControler.cpp > CMakeFiles/NAI_C.dir/zadania/functions/funcControler.cpp.i
+
+CMakeFiles/NAI_C.dir/zadania/functions/funcControler.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NAI_C.dir/zadania/functions/funcControler.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ruxuge/CLionProjects/NAI_C/zadania/functions/funcControler.cpp -o CMakeFiles/NAI_C.dir/zadania/functions/funcControler.cpp.s
+
 # Object files for target NAI_C
 NAI_C_OBJECTS = \
 "CMakeFiles/NAI_C.dir/main.cpp.o" \
@@ -190,10 +216,12 @@ NAI_C_OBJECTS = \
 "CMakeFiles/NAI_C.dir/zadania/zad2/lab2.cpp.o" \
 "CMakeFiles/NAI_C.dir/wykłady/wyk1/hill_climbing.cpp.o" \
 "CMakeFiles/NAI_C.dir/wykłady/wyk2/tabu_search.cpp.o" \
-"CMakeFiles/NAI_C.dir/zadania/zad2/functions/Beale/beale.cpp.o" \
-"CMakeFiles/NAI_C.dir/zadania/zad2/functions/Booth/booth.cpp.o" \
-"CMakeFiles/NAI_C.dir/zadania/zad2/functions/HimmelBlau/himmelBlau.cpp.o" \
-"CMakeFiles/NAI_C.dir/wykłady/wyk3/sa.cpp.o"
+"CMakeFiles/NAI_C.dir/zadania/functions/Beale/beale.cpp.o" \
+"CMakeFiles/NAI_C.dir/zadania/functions/Booth/booth.cpp.o" \
+"CMakeFiles/NAI_C.dir/zadania/functions/HimmelBlau/himmelBlau.cpp.o" \
+"CMakeFiles/NAI_C.dir/wykłady/wyk3/sa.cpp.o" \
+"CMakeFiles/NAI_C.dir/zadania/zad3/lab3.cpp.o" \
+"CMakeFiles/NAI_C.dir/zadania/functions/funcControler.cpp.o"
 
 # External object files for target NAI_C
 NAI_C_EXTERNAL_OBJECTS =
@@ -203,13 +231,15 @@ NAI_C: CMakeFiles/NAI_C.dir/zadania/zad1/lab1.cpp.o
 NAI_C: CMakeFiles/NAI_C.dir/zadania/zad2/lab2.cpp.o
 NAI_C: CMakeFiles/NAI_C.dir/wykłady/wyk1/hill_climbing.cpp.o
 NAI_C: CMakeFiles/NAI_C.dir/wykłady/wyk2/tabu_search.cpp.o
-NAI_C: CMakeFiles/NAI_C.dir/zadania/zad2/functions/Beale/beale.cpp.o
-NAI_C: CMakeFiles/NAI_C.dir/zadania/zad2/functions/Booth/booth.cpp.o
-NAI_C: CMakeFiles/NAI_C.dir/zadania/zad2/functions/HimmelBlau/himmelBlau.cpp.o
+NAI_C: CMakeFiles/NAI_C.dir/zadania/functions/Beale/beale.cpp.o
+NAI_C: CMakeFiles/NAI_C.dir/zadania/functions/Booth/booth.cpp.o
+NAI_C: CMakeFiles/NAI_C.dir/zadania/functions/HimmelBlau/himmelBlau.cpp.o
 NAI_C: CMakeFiles/NAI_C.dir/wykłady/wyk3/sa.cpp.o
+NAI_C: CMakeFiles/NAI_C.dir/zadania/zad3/lab3.cpp.o
+NAI_C: CMakeFiles/NAI_C.dir/zadania/functions/funcControler.cpp.o
 NAI_C: CMakeFiles/NAI_C.dir/build.make
 NAI_C: CMakeFiles/NAI_C.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/ruxuge/CLionProjects/NAI_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable NAI_C"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/ruxuge/CLionProjects/NAI_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX executable NAI_C"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/NAI_C.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

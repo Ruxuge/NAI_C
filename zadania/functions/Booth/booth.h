@@ -6,7 +6,7 @@
 #define NAI_C_BOOTH_H
 
 
-double runBooth(double x, double y);
+int Booth();
 
 
 #endif //NAI_C_BOOTH_H

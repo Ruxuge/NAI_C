@@ -5,7 +5,7 @@
 #ifndef NAI_C_HIMMELBLAU_H
 #define NAI_C_HIMMELBLAU_H
 
-double runHimmelBlau();
+int HimmelBlau();
 
 
 #endif //NAI_C_HIMMELBLAU_H

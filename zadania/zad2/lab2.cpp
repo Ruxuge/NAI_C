@@ -1,24 +1,24 @@
 #include "lab2.h"
 #include <iostream>
-#include "functions/Beale/beale.h"
-#include "functions/HimmelBlau/himmelBlau.h"
-#include "functions/Booth/booth.h"
+#include "../functions/Beale/beale.h"
+#include "../functions/HimmelBlau/himmelBlau.h"
+#include "../functions/Booth/booth.h"
 
 int climbing_menu(int num){
         switch(num){
             case 1:
-                runBeale();
+                //runBeale();
                 break;
             case 2:
                 //runBooth();
                 break;
             case 3:
-                runHimmelBlau();
+                //runHimmelBlau();
                 break;
             case 4:
-                runBeale();
+                //runBeale();
                 //runBooth();
-                runHimmelBlau();
+                //runHimmelBlau();
             default:
                 std::cout << "Bad input" << std::endl;
         }

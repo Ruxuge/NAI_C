@@ -225,6 +225,102 @@ wykłady/wyk3/sa.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/NAI_C.dir/build.make CMakeFiles/NAI_C.dir/wykłady/wyk3/sa.cpp.s
 .PHONY : wykłady/wyk3/sa.cpp.s
 
+zadania/functions/Beale/beale.o: zadania/functions/Beale/beale.cpp.o
+.PHONY : zadania/functions/Beale/beale.o
+
+# target to build an object file
+zadania/functions/Beale/beale.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NAI_C.dir/build.make CMakeFiles/NAI_C.dir/zadania/functions/Beale/beale.cpp.o
+.PHONY : zadania/functions/Beale/beale.cpp.o
+
+zadania/functions/Beale/beale.i: zadania/functions/Beale/beale.cpp.i
+.PHONY : zadania/functions/Beale/beale.i
+
+# target to preprocess a source file
+zadania/functions/Beale/beale.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NAI_C.dir/build.make CMakeFiles/NAI_C.dir/zadania/functions/Beale/beale.cpp.i
+.PHONY : zadania/functions/Beale/beale.cpp.i
+
+zadania/functions/Beale/beale.s: zadania/functions/Beale/beale.cpp.s
+.PHONY : zadania/functions/Beale/beale.s
+
+# target to generate assembly for a file
+zadania/functions/Beale/beale.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NAI_C.dir/build.make CMakeFiles/NAI_C.dir/zadania/functions/Beale/beale.cpp.s
+.PHONY : zadania/functions/Beale/beale.cpp.s
+
+zadania/functions/Booth/booth.o: zadania/functions/Booth/booth.cpp.o
+.PHONY : zadania/functions/Booth/booth.o
+
+# target to build an object file
+zadania/functions/Booth/booth.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NAI_C.dir/build.make CMakeFiles/NAI_C.dir/zadania/functions/Booth/booth.cpp.o
+.PHONY : zadania/functions/Booth/booth.cpp.o
+
+zadania/functions/Booth/booth.i: zadania/functions/Booth/booth.cpp.i
+.PHONY : zadania/functions/Booth/booth.i
+
+# target to preprocess a source file
+zadania/functions/Booth/booth.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NAI_C.dir/build.make CMakeFiles/NAI_C.dir/zadania/functions/Booth/booth.cpp.i
+.PHONY : zadania/functions/Booth/booth.cpp.i
+
+zadania/functions/Booth/booth.s: zadania/functions/Booth/booth.cpp.s
+.PHONY : zadania/functions/Booth/booth.s
+
+# target to generate assembly for a file
+zadania/functions/Booth/booth.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NAI_C.dir/build.make CMakeFiles/NAI_C.dir/zadania/functions/Booth/booth.cpp.s
+.PHONY : zadania/functions/Booth/booth.cpp.s
+
+zadania/functions/HimmelBlau/himmelBlau.o: zadania/functions/HimmelBlau/himmelBlau.cpp.o
+.PHONY : zadania/functions/HimmelBlau/himmelBlau.o
+
+# target to build an object file
+zadania/functions/HimmelBlau/himmelBlau.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NAI_C.dir/build.make CMakeFiles/NAI_C.dir/zadania/functions/HimmelBlau/himmelBlau.cpp.o
+.PHONY : zadania/functions/HimmelBlau/himmelBlau.cpp.o
+
+zadania/functions/HimmelBlau/himmelBlau.i: zadania/functions/HimmelBlau/himmelBlau.cpp.i
+.PHONY : zadania/functions/HimmelBlau/himmelBlau.i
+
+# target to preprocess a source file
+zadania/functions/HimmelBlau/himmelBlau.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NAI_C.dir/build.make CMakeFiles/NAI_C.dir/zadania/functions/HimmelBlau/himmelBlau.cpp.i
+.PHONY : zadania/functions/HimmelBlau/himmelBlau.cpp.i
+
+zadania/functions/HimmelBlau/himmelBlau.s: zadania/functions/HimmelBlau/himmelBlau.cpp.s
+.PHONY : zadania/functions/HimmelBlau/himmelBlau.s
+
+# target to generate assembly for a file
+zadania/functions/HimmelBlau/himmelBlau.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NAI_C.dir/build.make CMakeFiles/NAI_C.dir/zadania/functions/HimmelBlau/himmelBlau.cpp.s
+.PHONY : zadania/functions/HimmelBlau/himmelBlau.cpp.s
+
+zadania/functions/funcControler.o: zadania/functions/funcControler.cpp.o
+.PHONY : zadania/functions/funcControler.o
+
+# target to build an object file
+zadania/functions/funcControler.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NAI_C.dir/build.make CMakeFiles/NAI_C.dir/zadania/functions/funcControler.cpp.o
+.PHONY : zadania/functions/funcControler.cpp.o
+
+zadania/functions/funcControler.i: zadania/functions/funcControler.cpp.i
+.PHONY : zadania/functions/funcControler.i
+
+# target to preprocess a source file
+zadania/functions/funcControler.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NAI_C.dir/build.make CMakeFiles/NAI_C.dir/zadania/functions/funcControler.cpp.i
+.PHONY : zadania/functions/funcControler.cpp.i
+
+zadania/functions/funcControler.s: zadania/functions/funcControler.cpp.s
+.PHONY : zadania/functions/funcControler.s
+
+# target to generate assembly for a file
+zadania/functions/funcControler.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NAI_C.dir/build.make CMakeFiles/NAI_C.dir/zadania/functions/funcControler.cpp.s
+.PHONY : zadania/functions/funcControler.cpp.s
+
 zadania/zad1/lab1.o: zadania/zad1/lab1.cpp.o
 .PHONY : zadania/zad1/lab1.o
 
@@ -248,78 +344,6 @@ zadania/zad1/lab1.s: zadania/zad1/lab1.cpp.s
 zadania/zad1/lab1.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/NAI_C.dir/build.make CMakeFiles/NAI_C.dir/zadania/zad1/lab1.cpp.s
 .PHONY : zadania/zad1/lab1.cpp.s
-
-zadania/zad2/functions/Beale/beale.o: zadania/zad2/functions/Beale/beale.cpp.o
-.PHONY : zadania/zad2/functions/Beale/beale.o
-
-# target to build an object file
-zadania/zad2/functions/Beale/beale.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/NAI_C.dir/build.make CMakeFiles/NAI_C.dir/zadania/zad2/functions/Beale/beale.cpp.o
-.PHONY : zadania/zad2/functions/Beale/beale.cpp.o
-
-zadania/zad2/functions/Beale/beale.i: zadania/zad2/functions/Beale/beale.cpp.i
-.PHONY : zadania/zad2/functions/Beale/beale.i
-
-# target to preprocess a source file
-zadania/zad2/functions/Beale/beale.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/NAI_C.dir/build.make CMakeFiles/NAI_C.dir/zadania/zad2/functions/Beale/beale.cpp.i
-.PHONY : zadania/zad2/functions/Beale/beale.cpp.i
-
-zadania/zad2/functions/Beale/beale.s: zadania/zad2/functions/Beale/beale.cpp.s
-.PHONY : zadania/zad2/functions/Beale/beale.s
-
-# target to generate assembly for a file
-zadania/zad2/functions/Beale/beale.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/NAI_C.dir/build.make CMakeFiles/NAI_C.dir/zadania/zad2/functions/Beale/beale.cpp.s
-.PHONY : zadania/zad2/functions/Beale/beale.cpp.s
-
-zadania/zad2/functions/Booth/booth.o: zadania/zad2/functions/Booth/booth.cpp.o
-.PHONY : zadania/zad2/functions/Booth/booth.o
-
-# target to build an object file
-zadania/zad2/functions/Booth/booth.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/NAI_C.dir/build.make CMakeFiles/NAI_C.dir/zadania/zad2/functions/Booth/booth.cpp.o
-.PHONY : zadania/zad2/functions/Booth/booth.cpp.o
-
-zadania/zad2/functions/Booth/booth.i: zadania/zad2/functions/Booth/booth.cpp.i
-.PHONY : zadania/zad2/functions/Booth/booth.i
-
-# target to preprocess a source file
-zadania/zad2/functions/Booth/booth.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/NAI_C.dir/build.make CMakeFiles/NAI_C.dir/zadania/zad2/functions/Booth/booth.cpp.i
-.PHONY : zadania/zad2/functions/Booth/booth.cpp.i
-
-zadania/zad2/functions/Booth/booth.s: zadania/zad2/functions/Booth/booth.cpp.s
-.PHONY : zadania/zad2/functions/Booth/booth.s
-
-# target to generate assembly for a file
-zadania/zad2/functions/Booth/booth.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/NAI_C.dir/build.make CMakeFiles/NAI_C.dir/zadania/zad2/functions/Booth/booth.cpp.s
-.PHONY : zadania/zad2/functions/Booth/booth.cpp.s
-
-zadania/zad2/functions/HimmelBlau/himmelBlau.o: zadania/zad2/functions/HimmelBlau/himmelBlau.cpp.o
-.PHONY : zadania/zad2/functions/HimmelBlau/himmelBlau.o
-
-# target to build an object file
-zadania/zad2/functions/HimmelBlau/himmelBlau.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/NAI_C.dir/build.make CMakeFiles/NAI_C.dir/zadania/zad2/functions/HimmelBlau/himmelBlau.cpp.o
-.PHONY : zadania/zad2/functions/HimmelBlau/himmelBlau.cpp.o
-
-zadania/zad2/functions/HimmelBlau/himmelBlau.i: zadania/zad2/functions/HimmelBlau/himmelBlau.cpp.i
-.PHONY : zadania/zad2/functions/HimmelBlau/himmelBlau.i
-
-# target to preprocess a source file
-zadania/zad2/functions/HimmelBlau/himmelBlau.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/NAI_C.dir/build.make CMakeFiles/NAI_C.dir/zadania/zad2/functions/HimmelBlau/himmelBlau.cpp.i
-.PHONY : zadania/zad2/functions/HimmelBlau/himmelBlau.cpp.i
-
-zadania/zad2/functions/HimmelBlau/himmelBlau.s: zadania/zad2/functions/HimmelBlau/himmelBlau.cpp.s
-.PHONY : zadania/zad2/functions/HimmelBlau/himmelBlau.s
-
-# target to generate assembly for a file
-zadania/zad2/functions/HimmelBlau/himmelBlau.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/NAI_C.dir/build.make CMakeFiles/NAI_C.dir/zadania/zad2/functions/HimmelBlau/himmelBlau.cpp.s
-.PHONY : zadania/zad2/functions/HimmelBlau/himmelBlau.cpp.s
 
 zadania/zad2/lab2.o: zadania/zad2/lab2.cpp.o
 .PHONY : zadania/zad2/lab2.o
@@ -345,6 +369,30 @@ zadania/zad2/lab2.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/NAI_C.dir/build.make CMakeFiles/NAI_C.dir/zadania/zad2/lab2.cpp.s
 .PHONY : zadania/zad2/lab2.cpp.s
 
+zadania/zad3/lab3.o: zadania/zad3/lab3.cpp.o
+.PHONY : zadania/zad3/lab3.o
+
+# target to build an object file
+zadania/zad3/lab3.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NAI_C.dir/build.make CMakeFiles/NAI_C.dir/zadania/zad3/lab3.cpp.o
+.PHONY : zadania/zad3/lab3.cpp.o
+
+zadania/zad3/lab3.i: zadania/zad3/lab3.cpp.i
+.PHONY : zadania/zad3/lab3.i
+
+# target to preprocess a source file
+zadania/zad3/lab3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NAI_C.dir/build.make CMakeFiles/NAI_C.dir/zadania/zad3/lab3.cpp.i
+.PHONY : zadania/zad3/lab3.cpp.i
+
+zadania/zad3/lab3.s: zadania/zad3/lab3.cpp.s
+.PHONY : zadania/zad3/lab3.s
+
+# target to generate assembly for a file
+zadania/zad3/lab3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NAI_C.dir/build.make CMakeFiles/NAI_C.dir/zadania/zad3/lab3.cpp.s
+.PHONY : zadania/zad3/lab3.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -366,21 +414,27 @@ help:
 	@echo "... wykłady/wyk3/sa.o"
 	@echo "... wykłady/wyk3/sa.i"
 	@echo "... wykłady/wyk3/sa.s"
+	@echo "... zadania/functions/Beale/beale.o"
+	@echo "... zadania/functions/Beale/beale.i"
+	@echo "... zadania/functions/Beale/beale.s"
+	@echo "... zadania/functions/Booth/booth.o"
+	@echo "... zadania/functions/Booth/booth.i"
+	@echo "... zadania/functions/Booth/booth.s"
+	@echo "... zadania/functions/HimmelBlau/himmelBlau.o"
+	@echo "... zadania/functions/HimmelBlau/himmelBlau.i"
+	@echo "... zadania/functions/HimmelBlau/himmelBlau.s"
+	@echo "... zadania/functions/funcControler.o"
+	@echo "... zadania/functions/funcControler.i"
+	@echo "... zadania/functions/funcControler.s"
 	@echo "... zadania/zad1/lab1.o"
 	@echo "... zadania/zad1/lab1.i"
 	@echo "... zadania/zad1/lab1.s"
-	@echo "... zadania/zad2/functions/Beale/beale.o"
-	@echo "... zadania/zad2/functions/Beale/beale.i"
-	@echo "... zadania/zad2/functions/Beale/beale.s"
-	@echo "... zadania/zad2/functions/Booth/booth.o"
-	@echo "... zadania/zad2/functions/Booth/booth.i"
-	@echo "... zadania/zad2/functions/Booth/booth.s"
-	@echo "... zadania/zad2/functions/HimmelBlau/himmelBlau.o"
-	@echo "... zadania/zad2/functions/HimmelBlau/himmelBlau.i"
-	@echo "... zadania/zad2/functions/HimmelBlau/himmelBlau.s"
 	@echo "... zadania/zad2/lab2.o"
 	@echo "... zadania/zad2/lab2.i"
 	@echo "... zadania/zad2/lab2.s"
+	@echo "... zadania/zad3/lab3.o"
+	@echo "... zadania/zad3/lab3.i"
+	@echo "... zadania/zad3/lab3.s"
 .PHONY : help
 
 

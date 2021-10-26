@@ -106,34 +106,46 @@
 		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/wykłady/wyk3/sa.h">
 			<Option target="NAI_C"/>
 		</Unit>
+		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/functions/Beale/beale.cpp">
+			<Option target="NAI_C"/>
+		</Unit>
+		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/functions/Beale/beale.h">
+			<Option target="NAI_C"/>
+		</Unit>
+		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/functions/Booth/booth.cpp">
+			<Option target="NAI_C"/>
+		</Unit>
+		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/functions/Booth/booth.h">
+			<Option target="NAI_C"/>
+		</Unit>
+		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/functions/HimmelBlau/himmelBlau.cpp">
+			<Option target="NAI_C"/>
+		</Unit>
+		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/functions/HimmelBlau/himmelBlau.h">
+			<Option target="NAI_C"/>
+		</Unit>
+		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/functions/funcControler.cpp">
+			<Option target="NAI_C"/>
+		</Unit>
+		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/functions/funcControler.h">
+			<Option target="NAI_C"/>
+		</Unit>
 		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/zad1/lab1.cpp">
 			<Option target="NAI_C"/>
 		</Unit>
 		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/zad1/lab1.h">
 			<Option target="NAI_C"/>
 		</Unit>
-		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/zad2/functions/Beale/beale.cpp">
-			<Option target="NAI_C"/>
-		</Unit>
-		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/zad2/functions/Beale/beale.h">
-			<Option target="NAI_C"/>
-		</Unit>
-		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/zad2/functions/Booth/booth.cpp">
-			<Option target="NAI_C"/>
-		</Unit>
-		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/zad2/functions/Booth/booth.h">
-			<Option target="NAI_C"/>
-		</Unit>
-		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/zad2/functions/HimmelBlau/himmelBlau.cpp">
-			<Option target="NAI_C"/>
-		</Unit>
-		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/zad2/functions/HimmelBlau/himmelBlau.h">
-			<Option target="NAI_C"/>
-		</Unit>
 		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/zad2/lab2.cpp">
 			<Option target="NAI_C"/>
 		</Unit>
 		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/zad2/lab2.h">
+			<Option target="NAI_C"/>
+		</Unit>
+		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/zad3/lab3.cpp">
+			<Option target="NAI_C"/>
+		</Unit>
+		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/zad3/lab3.h">
 			<Option target="NAI_C"/>
 		</Unit>
 		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/CMakeLists.txt">

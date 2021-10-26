@@ -3,6 +3,8 @@
 #include "zadania/zad1/lab1.h"
 #include "zadania/zad2/lab2.h"
 #include "wykłady/wyk2/tabu_search.h"
+#include "zadania/zad3/lab3.h"
+
 using namespace std;
 
 int switch_menu(int num){
@@ -18,6 +20,9 @@ int switch_menu(int num){
             break;
         case 4:
             lab2();
+            break;
+        case 5:
+            lab3();
             break;
         default:
             std::cout << "Bad input" << std::endl;

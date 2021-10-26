@@ -8,6 +8,6 @@
 #include <functional>
 
 
-int runBeale();
+int Beale();
 
 #endif //NAI_C_BEALE_H

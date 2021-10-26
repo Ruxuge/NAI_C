@@ -6,7 +6,8 @@ CMakeFiles/NAI_C.dir/main.cpp.o: \
  ../wykłady/wyk1/hill_climbing.h \
  ../wykłady/wyk2/tabu_search.h \
  ../zadania/zad1/lab1.h \
- ../zadania/zad2/lab2.h
+ ../zadania/zad2/lab2.h \
+ ../zadania/zad3/lab3.h
 CMakeFiles/NAI_C.dir/wykłady/wyk1/hill_climbing.cpp.o: \
  ../helpers.h \
  ../wykłady/wyk1/hill_climbing.cpp \
@@ -18,22 +19,33 @@ CMakeFiles/NAI_C.dir/wykłady/wyk2/tabu_search.cpp.o: \
 CMakeFiles/NAI_C.dir/wykłady/wyk3/sa.cpp.o: \
  ../wykłady/wyk3/sa.cpp \
  ../wykłady/wyk3/sa.h
+CMakeFiles/NAI_C.dir/zadania/functions/Beale/beale.cpp.o: \
+ ../helpers.h \
+ ../zadania/functions/Beale/beale.cpp \
+ ../zadania/functions/Beale/beale.h
+CMakeFiles/NAI_C.dir/zadania/functions/Booth/booth.cpp.o: \
+ ../helpers.h \
+ ../zadania/functions/Booth/booth.cpp \
+ ../zadania/functions/Booth/booth.h
+CMakeFiles/NAI_C.dir/zadania/functions/HimmelBlau/himmelBlau.cpp.o: \
+ ../helpers.h \
+ ../zadania/functions/HimmelBlau/himmelBlau.cpp \
+ ../zadania/functions/HimmelBlau/himmelBlau.h
+CMakeFiles/NAI_C.dir/zadania/functions/funcControler.cpp.o: \
+ ../zadania/functions/Beale/beale.h \
+ ../zadania/functions/funcControler.cpp \
+ ../zadania/functions/funcControler.h
 CMakeFiles/NAI_C.dir/zadania/zad1/lab1.cpp.o: \
  ../zadania/zad1/lab1.cpp
-CMakeFiles/NAI_C.dir/zadania/zad2/functions/Beale/beale.cpp.o: \
- ../helpers.h \
- ../zadania/zad2/functions/Beale/beale.cpp \
- ../zadania/zad2/functions/Beale/beale.h
-CMakeFiles/NAI_C.dir/zadania/zad2/functions/Booth/booth.cpp.o: \
- ../zadania/zad2/functions/Booth/booth.cpp \
- ../zadania/zad2/functions/Booth/booth.h
-CMakeFiles/NAI_C.dir/zadania/zad2/functions/HimmelBlau/himmelBlau.cpp.o: \
- ../helpers.h \
- ../zadania/zad2/functions/HimmelBlau/himmelBlau.cpp \
- ../zadania/zad2/functions/HimmelBlau/himmelBlau.h
 CMakeFiles/NAI_C.dir/zadania/zad2/lab2.cpp.o: \
- ../zadania/zad2/functions/Beale/beale.h \
- ../zadania/zad2/functions/Booth/booth.h \
- ../zadania/zad2/functions/HimmelBlau/himmelBlau.h \
+ ../zadania/functions/Beale/beale.h \
+ ../zadania/functions/Booth/booth.h \
+ ../zadania/functions/HimmelBlau/himmelBlau.h \
  ../zadania/zad2/lab2.cpp \
  ../zadania/zad2/lab2.h
+CMakeFiles/NAI_C.dir/zadania/zad3/lab3.cpp.o: \
+ ../zadania/functions/Beale/beale.h \
+ ../zadania/functions/Booth/booth.h \
+ ../zadania/functions/HimmelBlau/himmelBlau.h \
+ ../zadania/zad3/lab3.cpp \
+ ../zadania/zad3/lab3.h
