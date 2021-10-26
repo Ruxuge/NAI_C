@@ -1,7 +1,8 @@
-#include <valarray>
+#include <algorithm>
 #include <iostream>
-#include <vector>
 #include <random>
+#include <vector>
+#include <valarray>
 #include "../../../helpers.h"
 #include "beale.h"
 

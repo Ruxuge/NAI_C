@@ -23,11 +23,15 @@ functional
 -
 
 /home/ruxuge/CLionProjects/NAI_C/zadania/functions/Beale/beale.cpp
-valarray
+algorithm
 -
 iostream
 -
+random
+-
 vector
+-
+valarray
 -
 ../../../helpers.h
 /home/ruxuge/CLionProjects/NAI_C/helpers.h
