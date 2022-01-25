@@ -6,9 +6,7 @@
 #define NAI_C_LAB5_H
 
 
-class lab5 {
-
-};
+int lab5();
 
 
 #endif //NAI_C_LAB5_H

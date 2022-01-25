@@ -34,7 +34,7 @@ int HimmelBlau(){
 
     auto result = simulated_annealing(
             himmelBlau, himmelBlau_domain, himmelBlau_p0, 10000,
-            [=](auto p) {
+            [&mt_generator](auto p) {
                 normal_distribution<double> n(0.0, 0.3);
                 for (auto& e : p) {
                     e = e + n(mt_generator);

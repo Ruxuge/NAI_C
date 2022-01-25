@@ -10,6 +10,13 @@ file(REMOVE_RECURSE
   "CMakeFiles/NAI_C.dir/zadania/zad1/lab1.cpp.o"
   "CMakeFiles/NAI_C.dir/zadania/zad2/lab2.cpp.o"
   "CMakeFiles/NAI_C.dir/zadania/zad3/lab3.cpp.o"
+  "CMakeFiles/NAI_C.dir/zadania/zad4/hb_func.cpp.o"
+  "CMakeFiles/NAI_C.dir/zadania/zad4/lab4.cpp.o"
+  "CMakeFiles/NAI_C.dir/zadania/zad5/lab5.cpp.o"
+  "CMakeFiles/NAI_C.dir/zadania/zad6/lab6.cpp.o"
+  "CMakeFiles/NAI_C.dir/zadania/zad7/lab7.cpp.o"
+  "CMakeFiles/NAI_C.dir/zadania/zad8/lab8.cpp.o"
+  "CMakeFiles/NAI_C.dir/zadania/zad9/lab9.cpp.o"
   "NAI_C"
   "NAI_C.pdb"
 )

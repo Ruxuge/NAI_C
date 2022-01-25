@@ -39,7 +39,7 @@ int Beale()
 
     auto result = simulated_annealing(
             beale, beale_domain, beale_p0, 10000,
-            [=](auto p) {
+            [&mt_generator](auto p) {
                 normal_distribution<double> n(0.0, 0.3);
                 for (auto& e : p) {
                     e = e + n(mt_generator);

@@ -1,7 +1,3 @@
-
-# Consider dependencies only in project.
-set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
-
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
   "CXX"
@@ -19,15 +15,19 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/ruxuge/CLionProjects/NAI_C/zadania/zad1/lab1.cpp" "/home/ruxuge/CLionProjects/NAI_C/cmake-build-debug/CMakeFiles/NAI_C.dir/zadania/zad1/lab1.cpp.o"
   "/home/ruxuge/CLionProjects/NAI_C/zadania/zad2/lab2.cpp" "/home/ruxuge/CLionProjects/NAI_C/cmake-build-debug/CMakeFiles/NAI_C.dir/zadania/zad2/lab2.cpp.o"
   "/home/ruxuge/CLionProjects/NAI_C/zadania/zad3/lab3.cpp" "/home/ruxuge/CLionProjects/NAI_C/cmake-build-debug/CMakeFiles/NAI_C.dir/zadania/zad3/lab3.cpp.o"
+  "/home/ruxuge/CLionProjects/NAI_C/zadania/zad4/hb_func.cpp" "/home/ruxuge/CLionProjects/NAI_C/cmake-build-debug/CMakeFiles/NAI_C.dir/zadania/zad4/hb_func.cpp.o"
+  "/home/ruxuge/CLionProjects/NAI_C/zadania/zad4/lab4.cpp" "/home/ruxuge/CLionProjects/NAI_C/cmake-build-debug/CMakeFiles/NAI_C.dir/zadania/zad4/lab4.cpp.o"
+  "/home/ruxuge/CLionProjects/NAI_C/zadania/zad5/lab5.cpp" "/home/ruxuge/CLionProjects/NAI_C/cmake-build-debug/CMakeFiles/NAI_C.dir/zadania/zad5/lab5.cpp.o"
+  "/home/ruxuge/CLionProjects/NAI_C/zadania/zad6/lab6.cpp" "/home/ruxuge/CLionProjects/NAI_C/cmake-build-debug/CMakeFiles/NAI_C.dir/zadania/zad6/lab6.cpp.o"
+  "/home/ruxuge/CLionProjects/NAI_C/zadania/zad7/lab7.cpp" "/home/ruxuge/CLionProjects/NAI_C/cmake-build-debug/CMakeFiles/NAI_C.dir/zadania/zad7/lab7.cpp.o"
+  "/home/ruxuge/CLionProjects/NAI_C/zadania/zad8/lab8.cpp" "/home/ruxuge/CLionProjects/NAI_C/cmake-build-debug/CMakeFiles/NAI_C.dir/zadania/zad8/lab8.cpp.o"
+  "/home/ruxuge/CLionProjects/NAI_C/zadania/zad9/lab9.cpp" "/home/ruxuge/CLionProjects/NAI_C/cmake-build-debug/CMakeFiles/NAI_C.dir/zadania/zad9/lab9.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  )
-
-# The set of dependency files which are needed:
-set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/usr/include/opencv4"
   )
 
 # Targets to which this target links.

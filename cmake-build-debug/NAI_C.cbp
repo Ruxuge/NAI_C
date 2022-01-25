@@ -5,7 +5,7 @@
 		<Option title="NAI_C"/>
 		<Option makefile_is_custom="1"/>
 		<Option compiler="gcc"/>
-		<Option virtualFolders="CMake Files\;"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\usr\;CMake Files\..\..\..\..\usr\lib\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\opencv4\;"/>
 		<Build>
 			<Target title="all">
 				<Option working_dir="/home/ruxuge/CLionProjects/NAI_C/cmake-build-debug"/>
@@ -44,6 +44,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
+					<Add directory="/usr/include/opencv4"/>
 					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/10.2.0/../../../../include/c++/10.2.0"/>
 					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/10.2.0/../../../../include/c++/10.2.0/x86_64-unknown-linux-gnu"/>
 					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/10.2.0/../../../../include/c++/10.2.0/backward"/>
@@ -66,6 +67,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
+					<Add directory="/usr/include/opencv4"/>
 					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/10.2.0/../../../../include/c++/10.2.0"/>
 					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/10.2.0/../../../../include/c++/10.2.0/x86_64-unknown-linux-gnu"/>
 					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/10.2.0/../../../../include/c++/10.2.0/backward"/>
@@ -148,8 +150,62 @@
 		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/zad3/lab3.h">
 			<Option target="NAI_C"/>
 		</Unit>
+		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/zad4/hb_func.cpp">
+			<Option target="NAI_C"/>
+		</Unit>
+		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/zad4/hb_func.h">
+			<Option target="NAI_C"/>
+		</Unit>
+		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/zad4/lab4.cpp">
+			<Option target="NAI_C"/>
+		</Unit>
+		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/zad4/lab4.h">
+			<Option target="NAI_C"/>
+		</Unit>
+		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/zad5/lab5.cpp">
+			<Option target="NAI_C"/>
+		</Unit>
+		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/zad5/lab5.h">
+			<Option target="NAI_C"/>
+		</Unit>
+		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/zad6/lab6.cpp">
+			<Option target="NAI_C"/>
+		</Unit>
+		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/zad6/lab6.hpp">
+			<Option target="NAI_C"/>
+		</Unit>
+		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/zad7/lab7.cpp">
+			<Option target="NAI_C"/>
+		</Unit>
+		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/zad7/lab7.h">
+			<Option target="NAI_C"/>
+		</Unit>
+		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/zad8/lab8.cpp">
+			<Option target="NAI_C"/>
+		</Unit>
+		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/zad8/lab8.h">
+			<Option target="NAI_C"/>
+		</Unit>
+		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/zad9/lab9.cpp">
+			<Option target="NAI_C"/>
+		</Unit>
+		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/zadania/zad9/lab9.h">
+			<Option target="NAI_C"/>
+		</Unit>
 		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/../../../../usr/lib/x86_64-linux-gnu/cmake/opencv4/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/../../../../usr/lib/x86_64-linux-gnu/cmake/opencv4/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/../../../../usr/lib/x86_64-linux-gnu/cmake/opencv4/OpenCVModules-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/home/ruxuge/CLionProjects/NAI_C/../../../../usr/lib/x86_64-linux-gnu/cmake/opencv4/OpenCVModules.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\opencv4\"/>
 		</Unit>
 	</Project>
 </CodeBlocks_project_file>
